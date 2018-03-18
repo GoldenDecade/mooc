@@ -5,7 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>hello start your journey. </Text>
+        <Text>hello start your journey. wangqiang</Text>
         <Text>Changes you make will automatically reload. emulator</Text>
         <Text>Shake your phone to open the developer menu. device</Text>
       </View>
