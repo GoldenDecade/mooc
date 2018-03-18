@@ -7,7 +7,7 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <Text>hello start your journey. </Text>
         <Text>Changes you make will automatically reload. emulator</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
+        <Text>Shake your phone to open the developer menu. device</Text>
       </View>
     );
   }
